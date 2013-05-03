@@ -70,4 +70,4 @@ close (FILE);
 
 #print "number of Herves genes $Hervegene\n";
 #print "$substrherves\n";
-
+}
